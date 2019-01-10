@@ -23,3 +23,6 @@ Here we build a denoising convolutional autoencoder, using noisy image and not n
 
 
 # Variational Autoencoders
+With variational autoencoders we have a generative model that allow us to create new images by sampling them from the latent space
+
+![variational_autoencoder](https://user-images.githubusercontent.com/31891596/50974581-3da04480-14f4-11e9-9276-fd86b7fd8a18.JPG)
